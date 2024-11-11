@@ -1,4 +1,4 @@
-# Component to Actor Converter Plugin
+# Components to Actors Converter Plugin
 
 This plugin converts components of an actor into separate actors, maintaining the hierarchy.
 
