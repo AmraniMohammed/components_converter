@@ -32,12 +32,4 @@ Before using the plugin, you need to rebuild it since it does not include the Bi
 
 ![Create Widget](readme/euw_bp.png)
 
-## Conversion Example
 
-- Before Conversion:
-
-  ![Before Conversion](readme/before.png)
-
-- After Conversion:
-
-  ![After Conversion](readme/after.png)
