@@ -2,7 +2,7 @@
 
 This plugin converts components of an actor into separate actors, maintaining the hierarchy.
 
-**Tested in UE 5.4**
+**Tested in UE 5.4 & 5.5**
 
 Before using the plugin, you need to rebuild it since it does not include the Binaries and Intermediate folders.
 
